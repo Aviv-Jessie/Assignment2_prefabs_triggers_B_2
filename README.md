@@ -10,9 +10,7 @@ https://aviv-jessie.itch.io/assignment2-prefabs-triggers-b-2
 
 
 # Changes:
-* Assets\Scripts\
-* Assets\Scripts\
-* Assets\Scripts\
+* Assets\Scripts\InvisibleWall
 
 ## Credits
 ### Assignment solver
