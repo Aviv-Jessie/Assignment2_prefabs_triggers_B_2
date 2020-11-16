@@ -1,11 +1,26 @@
-# Unity week 2: Formal elements
 
-our game in itch.io:
+Hello, Welcome to our games!
 
+ We are learning PC-Game development, and our assignments its to make changes in spaceship game.
+
+We made another changes every section, in this section, we changed the walls attributes and collisions:
+
+the game:
 https://aviv-jessie.itch.io/assignment2-prefabs-triggers-b-2
 
-## Credits
 
+# Changes:
+* Assets\Scripts\
+* Assets\Scripts\
+* Assets\Scripts\
+
+## Credits
+### Assignment solver
+* Aviv
+* Omri
+* Jessica
+
+### Assignment writer
 Programming:
 * Maoz Grossman
 * Erel Segal-Halevi
